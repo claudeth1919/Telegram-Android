@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telegram</string>
+    <string name="bt1">Mensaje</string>
+    <string name="bt2">Do request</string>
+</resources>
